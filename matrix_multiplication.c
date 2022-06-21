@@ -2,13 +2,13 @@
 
 int main(){
 	int m,n,o;
+    int arr1[10][10],arr2[10][10],arr_mul[10][10];
 	printf("Enter the number of rows of matrix 1 : ");
 	scanf("%d",&m);
 	printf("Enter the number of columns of matrix 1 and number of rows of matrix 2 : ");
 	scanf("%d",&n);
     printf("Enter the number of columns of matrix 2 : ");
     scanf("%d",&o);
-	int arr1[m][n],arr2[n][m],arr_mul[m][n];
 
 	for(int i=0;i<m;i++){
 		for(int j=0;j<n;j++){
@@ -24,14 +24,18 @@ int main(){
         }
     }
 
-    int ans;
     for(int i=0;i<m;i++){
         for(int j=0;j<o;j++){
-            ans=0;
+            arr_mul[i][j]=0;
             for(int p=0;p<n;p++){
-                ans+=arr1[i][p]*arr2[p][j];
+                arr_mul[i][j]+=arr1[i][p]*arr2[p][j];
             }
-            printf("%d ",ans);
+        }
+    }
+
+    for(int i=0;i<m;i++){
+        for(int j=0;j<o;j++){
+            printf("%d ",arr_mul[i][j]);
         }
         printf("\n");
     }
