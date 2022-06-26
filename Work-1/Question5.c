@@ -10,8 +10,8 @@ int main(){
             scanf("%d",&matrix[i][j]);
         }
     }
-    for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
+    for(int i=0;i<length;i++){
+        for(int j=0;j<length;j++){
             if(i==j){
                 trace+=matrix[i][j];
             }
