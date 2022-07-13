@@ -7,7 +7,7 @@ int main(){
 	printf("BEFORE SWAPPING\n");
 	printf("A is %d & B is %d\n", a, b);
 	swap_variable(&a, &b);
-	printf("BEFORE SWAPPING\n");
+	printf("AFTER SWAPPING\n");
 	printf("A is %d & B is %d\n", a, b);
 	return 0;
 }
