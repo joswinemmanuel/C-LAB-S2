@@ -40,7 +40,7 @@ int main()
     }
   }
 
-  //display the sorted array
+  //display sorted array
   printf("Sorted Array: ");
   display(array);
 
