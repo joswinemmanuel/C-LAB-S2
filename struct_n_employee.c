@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//Joswin Emmanuel's code
 struct Employee{
 	char name[100];
 	int id;
