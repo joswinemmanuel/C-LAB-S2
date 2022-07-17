@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Odd OR Even?
+
 int main(){
 	int num;
 	printf("Enter the number: ");
