@@ -1,9 +1,3 @@
-/*#include <stdio.h>
-
-int main(){
-	printf("NEW WORLD");
-}*/
-
 #include <stdio.h>
 
 int main(){
