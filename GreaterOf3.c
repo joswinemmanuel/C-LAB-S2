@@ -11,7 +11,7 @@ int main(){
 	scanf("%d",&num2);
 	printf("Enter the third number:");
 	scanf("%d",&num3);
-	if(num1>num2 & num1>num3){
+	if(num1>num2 && num1>num3){
 		printf("%d is greater of the three",num1);
 	} else if(num2>num3){
 		printf("%d is greater of the three",num2);
