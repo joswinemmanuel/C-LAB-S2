@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//to convert binary to decimal
 int main(){
     int binary,bin,base=1,deci=0;
     printf("Enter the binary to be converted to decimal : ");
