@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//greater of two inputted numbers 
+//to find greater of two inputted numbers 
 int main(){
 	int num1,num2;
 	printf("This is a program to find the greater of the two numbers\n");
