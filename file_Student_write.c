@@ -8,13 +8,14 @@ int main(){
 	printf("Enter the number of students : ");
 	scanf("%d", &no_of_entry);
 	for(int i=1; i<=no_of_entry; i++){
-		printf("Enter the student %d name : ", i);
-		scanf("%s : ", name);
-		fprintf(fp, "%s", name);
+		printf("\nEnter the student %d name : ", i);
+		scanf("%s", name);
+		fputs(name, fp);
 		printf("Enter the student %d mark : ", i);
 		scanf("%d", &mark);
-		fprintf(fp, "%d", mark);
+		fprintf(fp, " : %d\n", mark);
 	}
+
 	fclose(fp);
 	return 0;
 	
