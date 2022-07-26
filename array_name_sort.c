@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define size_of_array 3  //define size of array
+#define size_of_array 3  //define size of the array
  
 //function to display array
 void display(char array[][30]){
