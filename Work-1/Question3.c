@@ -1,3 +1,5 @@
+#include <studio.h>
+
 int main() {
     char string[50];
     printf("Enter the string : ");
