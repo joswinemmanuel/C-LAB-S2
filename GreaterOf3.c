@@ -4,7 +4,7 @@
 
 int main(){
 	int num1,num2,num3;
-	printf("This is a program to find the greater of the two numbers\n");
+	printf("This is a program to find the greater of the three numbers\n");
 	printf("Enter the first number:");
 	scanf("%d",&num1);
 	printf("Enter the second number:");
