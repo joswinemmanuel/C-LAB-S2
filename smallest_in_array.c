@@ -10,6 +10,6 @@ int main(){
 	}
     }
     
-    printf("The max element in the array is : %d",min);
+    printf("The min element in the array is : %d",min);
     return 0;
 }
