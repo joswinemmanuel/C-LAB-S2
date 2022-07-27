@@ -9,7 +9,7 @@ int main(){
     printf("Enter the second string : ");
     scanf("%s", s2);
     
-    j = strlen(s2);
+    j = strlen(s1);
     for(int i=0; s2[i] != '\0'; i++){
         s1[j+i] = s2[i];
     }
