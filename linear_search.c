@@ -18,6 +18,7 @@ int main(){
 		if(arr[i]==n){
 			found=1;
 			index=i;
+                        break;
 		}
 	}
 	
