@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of all the elements in a matrix
 int main(){
 	int m,n;
 	printf("Enter the number of rows : ");
