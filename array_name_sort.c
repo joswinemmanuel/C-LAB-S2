@@ -3,7 +3,7 @@
 #include <string.h>
 #define size_of_array 3  //define size of the array
  
-//function to display array
+//function that display array
 void display(char array[][30]){
   for(int i=0; i<size_of_array; i++){
     printf("%s ", array[i]);
