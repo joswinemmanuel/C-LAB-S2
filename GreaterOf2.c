@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// https://www.instagram.com/p/CeUF7OUNI8V/
+
 //to find greatest of two numbers 
 int main(){
 	int num1,num2;
