@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ //To find the average
 int main(){
 	int n,sum=0,val;
 	printf("Enter how many number you want to average: ");
