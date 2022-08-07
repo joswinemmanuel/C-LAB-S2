@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//question 1
 int main() {
     char string[50],character;
     int count=0;
