@@ -7,5 +7,5 @@ int main(){
     b = ++a;
     printf("%d ", b);
     return 0;
-    //10 12
+    //10  12
 }
