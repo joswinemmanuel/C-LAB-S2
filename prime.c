@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Prime or not
 int main(){
 	int num,flag=1;
 	printf("This is a program to check if a number is prime of not\n");
