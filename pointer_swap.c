@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Swapping using pointers
 void swap_variable(int *num1, int *num2);
 
 int main(){
