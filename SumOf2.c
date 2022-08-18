@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Sum of two
+//Sum of two numbers
 int main(){
 	int num1,num2;
 	printf("This is a program to find the sum of two numbers");
