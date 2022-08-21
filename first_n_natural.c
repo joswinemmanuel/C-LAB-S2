@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// To print first n natural numbers
 int main(){
 	int n;
 	printf("Enter the limit : ");
