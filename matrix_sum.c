@@ -1,5 +1,5 @@
 #include <stdio.h>
-//to find the sum matrix
+//to find the sum of two matrix
 int main(){
 	int m,n;
 	printf("Enter the number of rows : ");
