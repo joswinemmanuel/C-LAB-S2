@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Factorial
 int main(){
 	int fact=1,num;
 	printf("Enter the number : ");
