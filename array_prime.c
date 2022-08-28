@@ -28,6 +28,7 @@ int main(){
 }
 
 /*
+Enter the length of the array : 5
 Enter the value of element 0 : 1
 Enter the value of element 1 : 2
 Enter the value of element 2 : 3
