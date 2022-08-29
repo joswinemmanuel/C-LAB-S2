@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Basic multiplication table
 int main(){
 	int num;
 	printf("Enter the number:");
