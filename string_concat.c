@@ -13,6 +13,7 @@ int main(){
     for(int i=0; s2[i] != '\0'; i++){
         s1[j+i] = s2[i];
     }
+    s1[j+i] = '\0';
     
     printf("Concatenated string : %s", s1);
     return 0;
