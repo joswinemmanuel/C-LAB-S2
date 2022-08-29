@@ -9,6 +9,6 @@ int main(){
 		scanf("%d",&val);
 		sum+=val;	
 	}
-	printf("The average is:%d",sum/n);
+	printf("The average is:%d",(float)sum/n);
 	return 0;
 }
