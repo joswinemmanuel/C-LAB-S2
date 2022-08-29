@@ -6,6 +6,10 @@ int fact(int n)
     else
         return n * fact(n-1);
 }
+
+// no. of permutation = n! / (n-r)!
+// no. of combination = n! / (r! * (n-r)!)
+
 void main()
 {
     int n,r;
@@ -18,5 +22,8 @@ void main()
     printf("nPr=%f",P);
 }
 
-// no. of permutation = n! / (n-r)!
-// no. of combination = n! / (r! * (n-r)!)
+/*
+Enter the numbers:5 3
+nCr=10.000000
+nPr=60.000000
+*/
