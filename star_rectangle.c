@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//To make a rectangle
 int main(){
 	int length,breadth;
 	printf("Enter the length of the rectangle:");
