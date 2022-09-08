@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Smallest element
 int main(){
     int arr[]={6,3,5,2,1,9},len,min=arr[0];    
     len=sizeof(arr)/sizeof(int);
