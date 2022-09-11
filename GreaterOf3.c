@@ -1,4 +1,4 @@
-// This is a program to find greater of three numbers
+// This is to find greater of three numbers
 
 #include <stdio.h>
 
