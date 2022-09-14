@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Sum of first n natural numbers
 int main(){
 	int n,sum=0,num;
 	printf("Enter the limit : ");
