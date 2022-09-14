@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Implementation of basic calculator
+
 int main(){
     int a,b;
     char op;
