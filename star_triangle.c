@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Drawing a triangle
 int main(){
 	int length;
 	printf("Enter the length of the triangle:");
