@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Odd OR Even?
+// Odd OR Even check
 
 int main(){
 	int num;
