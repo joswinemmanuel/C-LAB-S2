@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-//to check if number is armstrong or not
 int main(){
     int num,p,count=0,sum=0;
     printf("Enter the number : ");
