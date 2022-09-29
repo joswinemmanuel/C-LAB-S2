@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Transpose
 int main(){
 	int m,n;
 	printf("Enter the number of rows : ");
