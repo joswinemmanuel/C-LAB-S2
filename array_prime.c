@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//. Prime
 int main(){
     int arr[100], n;
     printf("Enter the length of the array : ");
