@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(){
 	int num1,num2;
 	printf("This is a program to find the sum of two numbers");
