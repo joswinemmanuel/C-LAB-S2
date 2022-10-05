@@ -1,5 +1,4 @@
 #include <stdio.h>
-// To print first n natural numbers
 // (n*(n+1))/2
 int main(){
 	int n;
