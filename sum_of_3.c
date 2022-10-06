@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Sum of 3
 int main(){
     int a,b,c;
     printf("Enter the first number : ");
