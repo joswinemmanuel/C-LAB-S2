@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//
 int main(){
     int num,p,count=0,sum=0;
     printf("Enter the number : ");
