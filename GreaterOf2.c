@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//to find greatest of two
 int main(){
 	int num1,num2;
 	printf("This is a program to find the greater of the two numbers\n");
