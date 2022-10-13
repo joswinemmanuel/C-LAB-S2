@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Pointers
+//Pointers in c
 int main(){
 	int data=20, *p, carrier;  // declaring a pointer
 	p = &data;                 // initializing a pointer by giving the passing the address of data
