@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int fact(int n);
+int fact(int n); //declaration
 
 int main(){
 	int number;
