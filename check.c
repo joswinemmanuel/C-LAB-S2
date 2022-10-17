@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Number check
+
 int main(){
 	int num;
 	printf("This is a program to check if a number is less than 100 or not\n");
