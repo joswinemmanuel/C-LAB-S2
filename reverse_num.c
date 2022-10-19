@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Reverse
 int main(){
 	int n,ans=0;
 	printf("Enter the number : ");
